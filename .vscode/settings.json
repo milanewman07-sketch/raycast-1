@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "mpie-p52-collisions.sln"
+    "dotnet.defaultSolution": "raycast-1.sln"
 }
